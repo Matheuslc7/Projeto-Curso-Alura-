@@ -1,8 +1,8 @@
-# Alura+
-## Descrição do Projeto:
+<h1 align="center">Alura+</h1>
+<h2 align="center"> Descrição do Projeto:</h2>
 <p align="center">Desenvolvi através da ideia do curso ALURA, uma página web para assinatura dos cursos Alura+ e Combo ALura.</p>
 
-Tabela de conteúdos
+<h2 align="center">Tabela de conteúdos</h2>
 ===================
 <p align="center">
  <a href="#assinatura">Assinatura</a> •
@@ -12,7 +12,7 @@ Tabela de conteúdos
  <a href="#disponivel">Dispositivos</a> • 
 </p>
 
-# Status do projeto : 🚧 Em Desenvolvimento 🚧
+<h1 align="center">Status do projeto : 🚧 Em Desenvolvimento 🚧</h1>
 
 <h1 align="center">Demosntração :
 
