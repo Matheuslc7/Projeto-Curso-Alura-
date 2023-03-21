@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family= Inter & display=swap');
+
+:root {
+    --cor-letras: #FFFFFF;
+    --cor-background: #00030c;
+    --cor-botão: #167bf7;
+    --cor-secundaria: #c0c0c0;
+
+    --fonte-textos: 'Inter', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--cor-background);
+}
+
+.principal {
+    background-image: url(imagens/Background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: var(--cor-letras);
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    text-align: center;
+}
+
+.conteudo {
+    margin: 0 6rem;
+}
+
+h1 {
+    font-size: 2rem;
+    color: var(--cor-letras);
+    font-weight: 700;
+    font-family: var(--fonte-textos);
+}
+
+.imgCombo {
+    margin: 2rem 0 2rem 0;
+}
+
+.botao1 {
+    text-decoration: none;
+    background-color: var(--cor-botão);
+    padding: 1rem;
+    border-radius: 5px;
+    color: var(--cor-letras);
+    display: block;
+    font-family: var(--fonte-textos);
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.botao2 {
+    text-decoration: none;
+    background-color: transparent;
+    padding: 1rem;
+    border: 2px solid var(--cor-letras);
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    font-family: var(--fonte-textos);
+    color: var(--cor-letras);
+}
+
+.baixoBotao {
+    text-align: center;
+    font-size: 12px;
+    font-family: var(--fonte-textos);
+    color: var(--cor-secundaria);
+    margin-top: 1rem;
+}
+
+.botao1:hover {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-botão);
+    border: 2px solid var(--cor-botão);
+}
+
+.botao2:hover {
+    background-color: var(--cor-botão);
+    color: var(--cor-letras);
+}
+
+.secundario {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    margin: 0 10rem 20rem 10rem;
+
+}
+
+.variasTelas {
+    width: 80%;
+}
+
+h2 {
+    font-family: var(--fonte-textos);
+    color: var(--cor-letras);
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.textoSecundario {
+    font-family: var(--fonte-textos);
+    color: var(--cor-secundaria);
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    margin: 0 8rem 0 0;
+}
+
+.botaoSecundario {
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.terciario {
+    display: flex;
+    flex-direction: column;
+    margin: 20rem 10rem;
+}
+
+.tituloTerciario {
+    font-family: var(--fonte-textos);
+    color: var(--cor-letras);
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.plataformas {
+    display: flex;
+    justify-content: space-around;
+    margin: 5rem;
+}
+
+.txtPlataformas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.txt {
+    font-family: var(--fonte-textos);
+    color: var(--cor-letras);
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.rodape {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.rodape a:hover {
+    color: var(--cor-botão);
+}
+
+.logo {
+    height: 20%;
+}
+
+.ancRodape {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    margin: 3rem 0 3rem 0;
+}
+
+.txtRodape {
+    font-family: var(--fonte-textos);
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    color: var(--cor-letras);
+}
+
+.baixo {
+    margin-bottom: 1rem;
+}
+
+.baixo__baixo {
+    margin-bottom: 5rem;
+    width: 70%;
+
+}
