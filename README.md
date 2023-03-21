@@ -12,7 +12,7 @@ Tabela de conteúdos
  <a href="#disponivel">Dispositivos</a> • 
 </p>
 
-#Status do projeto : 🚧 Em Desenvolvimento 🚧
+# Status do projeto : 🚧 Em Desenvolvimento 🚧
 
 <h1 align="center">Demosntração :
 
