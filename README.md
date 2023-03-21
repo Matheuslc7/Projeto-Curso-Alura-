@@ -3,7 +3,6 @@
 <p align="center">Desenvolvi através da ideia do curso ALURA, uma página web para assinatura dos cursos Alura+ e Combo ALura.</p>
 
 <h2 align="center">Tabela de conteúdos</h2>
-===================
 <p align="center">
  <a href="#assinatura">Assinatura</a> •
  <a href="#plataformas">Plataformas</a> • 
