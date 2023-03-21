@@ -17,5 +17,5 @@ Tabela de conteúdos
 <h1 align="center">Demosntração :
 
 <h1 align="center">
-  <img src="./imagens/banner.png /" alt="demonstração projeto">
+  <img src="./imagens/banner.PNG /" alt="demonstração projeto">
 </h1>
